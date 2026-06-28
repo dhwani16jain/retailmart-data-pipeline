@@ -1,0 +1,6 @@
+store_id,store_name,city,region
+S01,RetailMart Delhi Central,Delhi,North
+S02,RetailMart Mumbai West,Mumbai,West
+S03,RetailMart Bangalore Tech,Bangalore,South
+S04,RetailMart Chennai Anna,Chennai,South
+S05,RetailMart Kolkata Park,Kolkata,East
